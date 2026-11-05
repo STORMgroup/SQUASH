@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use SQUASH, please cite the paper below."
+title: "SQUASH"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/STORMgroup/SQUASH"
+authors:
+  - family-names: "Ngo"
+    given-names: "Quang"
+  - family-names: "McConnell"
+    given-names: "Ulysse"
+  - family-names: "Firtina"
+    given-names: "Can"
+preferred-citation:
+  type: article
+  title: "SQUASH: Assembling raw nanopore signals with minimizer-space de Bruijn graphs"
+  authors:
+    - family-names: "Ngo"
+      given-names: "Quang"
+    - family-names: "McConnell"
+      given-names: "Ulysse"
+    - family-names: "Firtina"
+      given-names: "Can"
+  status: in-preparation
+  year: 2026

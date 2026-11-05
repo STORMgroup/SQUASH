@@ -1,0 +1,7 @@
+# SQUASH's outputs of ark60_both60 (sha256 of each file; a .gz file by its decompressed text)
+9a1cfee37a89fcaa897f828813844b3298277ebaf38ce22f431d442d7a717308  assembly_graph.gfa
+1117723c1be84d8c36596bec485ebf56f16231ecd3680b6b326776aef3b82248  assembly_info.tsv
+258343c77526f077ba3c3e9a26c2614c0e358c92f22c59b7a001050ebb69498c  read_paths.tsv.gz
+0bc7cbadb0ce14332cd1de765947f5c574acbe19bf8543b702457152de1dd719  layout.tsv.gz
+e9127eeb7bec155c56c18c071da1007c575185102c02df06cc816f513279a6af  joins.tsv
+c3a835a119416d63d4e5d2bd97693a455f733764484747009d29fe03bc9500b3  stats.tsv

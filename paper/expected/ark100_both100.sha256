@@ -1,0 +1,7 @@
+# SQUASH's outputs of ark100_both100 (sha256 of each file; a .gz file by its decompressed text)
+6165661ae26107219857e11d15bb5a2c9450378957b5f7b3bc0f72bcc8e9f19a  assembly_graph.gfa
+d847d53ee279c15216dec498ea1ad91390330501b3fcda418c791f0333133ae2  assembly_info.tsv
+a60a0696f5af7d4fefed28020191d13ee09acde7bda2ef6c711e560407aac89f  read_paths.tsv.gz
+e10394f294f3a328a889041ef7a30deafc87f4a7c0a1753dce31fc6d50fbc2a1  layout.tsv.gz
+25475c0802a6b6d94966dc2c5550e27b537d58388fa992f11cc20443f9c866df  joins.tsv
+bf91c6f2201480f208a1c15cce48e46b762848e68fd8fc11173e7a87833432fd  stats.tsv

@@ -1,0 +1,10 @@
+# paper/tools/envs/flye.yml: Flye 2.9.6-b1802 (`flye --version`), the bioconda build the paper's runs used.
+#   tools/conda.sh flye   (or: conda env create -p DIR -f paper/tools/envs/flye.yml)
+name: flye
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - flye=2.9.6=py313h7fbb527_1
+  - python=3.13.16

@@ -1,0 +1,7 @@
+# SQUASH's outputs of u9k100_both100 (sha256 of each file; a .gz file by its decompressed text)
+cffc83f976f61c2c0540e5294b245c168acb67bb8f7cfc6ac61f8240ecb476ec  assembly_graph.gfa
+02a1ae7a7ebc64f372d7d0e884cd89aff36b86e60fbf01bfb201c58d5ab0721f  assembly_info.tsv
+a010e606f4a6661e654d3bc71bbbc96e7fb2d33dd81f302b447a3e989c8fb4fc  read_paths.tsv.gz
+82fdcf5909f7d025cef3ed0aead953bf57b1db9c54924cb5c9132d6fbebae54a  layout.tsv.gz
+945deac035831d3d5bf0a8fee5befcb4cffcff823baa29b0c7b02f3e65b90f8e  joins.tsv
+bc3961c8ef7f3e34a13c36b4ccb93e2d2652361a0986d20048da65ac2e28163e  stats.tsv

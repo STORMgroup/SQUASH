@@ -1,0 +1,7 @@
+# SQUASH's outputs of awk60_both60 (sha256 of each file; a .gz file by its decompressed text)
+1ec917a11a39c83d78fb6ef395f3ce5ff4f8af80d380a56fb3e1874d4003f98f  assembly_graph.gfa
+dec1f5b737bbc637c212f83e21188502f0e66d592726367fc105216f7711c9d3  assembly_info.tsv
+3858ae5346d8e8e7888b1be2c425bf57d321faff24ca5bef9a604ff0b53c7aa1  read_paths.tsv.gz
+a5277a2b1a22b2222fbf6839a8994a61ca53f78b2e2c2dec80d949ef988f64d7  layout.tsv.gz
+5fdf1044be53af9b30636224319a5971831a874a1c73c66f8dd78380213d631b  joins.tsv
+0f2dfe56cb3f69f08c1a91010dbfb8e45c10ce123d8e7375906a3c787e03cc99  stats.tsv

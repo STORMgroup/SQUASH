@@ -1,0 +1,8 @@
+run_accession	sample_title	submitted_ftp	submitted_md5	submitted_bytes
+ERR14664019	ME14 delta nlp2	ftp.sra.ebi.ac.uk/vol1/run/ERR146/ERR14664019/ME14_delta_nlp2.tar.gz	d3af3e013a2b6cebcd5070b5c5526dd6	18563096948
+ERR14664020	ME14 delta nlp2 delta nlp1	ftp.sra.ebi.ac.uk/vol1/run/ERR146/ERR14664020/ME14_delta_nlp2_delta_nlp1.tar.gz	e9a77507d3a6e8c8b18a2cb7bb3601f8	23173355053
+ERR14664021	ME14 delta pks1	ftp.sra.ebi.ac.uk/vol1/run/ERR146/ERR14664021/ME14_delta_pks1.tar.gz	d94f85d4342feaa03e22601a5df667c0	23524422428
+ERR14664022	ME14 delta pks1 comp at pks1	ftp.sra.ebi.ac.uk/vol1/run/ERR146/ERR14664022/ME14_delta_pks1_comp_at_pks1.tar.gz	01018e1be9932bbc6594514a5daab2e4	21030154288
+ERR14664023	ME14 delta pks1 comp pks1 at sdhB 1500 bp flanks	ftp.sra.ebi.ac.uk/vol1/run/ERR146/ERR14664023/ME14_delta_pks1_comp_pks1_at_sdhB_1500_bp_flanks.tar.gz	77c1d4754fc496760a5038716af9889a	38402284868
+ERR14664024	ME14 delta pks1 comp pks1 at sdhB 500 bp flanks	ftp.sra.ebi.ac.uk/vol1/run/ERR146/ERR14664024/ME14_delta_pks1_comp_pks1_at_sdhB_500_bp_flanks.tar.gz	e7dea3d1242ebc969536ce67133ae75b	25469579408
+ERR14664025	ME14 sdhB H277L	ftp.sra.ebi.ac.uk/vol1/run/ERR146/ERR14664025/ME14_sdhB_H277L.tar.gz	034ee7c31c3e46c71824b302ab55c999	16838391443

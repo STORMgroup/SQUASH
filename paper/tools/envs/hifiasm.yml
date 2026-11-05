@@ -1,0 +1,9 @@
+# paper/tools/envs/hifiasm.yml: hifiasm 0.25.0-r726 (`hifiasm --version`), the bioconda build the paper's runs used.
+#   tools/conda.sh hifiasm
+name: hifiasm
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - hifiasm=0.25.0=h5ca1c30_0

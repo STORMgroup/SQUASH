@@ -1,0 +1,7 @@
+# SQUASH's outputs of eck100_both100 (sha256 of each file; a .gz file by its decompressed text)
+f1c58a7ca23f1e29661a41162b9361a255ac4668bbd46bbc99a7c8ae2bdc37bf  assembly_graph.gfa
+245b82bfa325bb94e7ad2d2bc3b0d52f61a8534bbf5768f2112aaf98cc379c11  assembly_info.tsv
+28bb2c59d71e2347ae10c19b64584a87a77e549e75635b4c0fe2c48671fd31fa  read_paths.tsv.gz
+6005be305faa8922ae620dee5e1ca9b8bd3ea917554d1700575623fe1968fe35  layout.tsv.gz
+945deac035831d3d5bf0a8fee5befcb4cffcff823baa29b0c7b02f3e65b90f8e  joins.tsv
+952bdf0756fb425313202fe48a3b176182daf1c95f89fd2d555d70ed9a3dd858  stats.tsv

@@ -1,0 +1,4 @@
+version	archive	archive_sha256	binary_sha256	models
+0.9.2	https://cdn.oxfordnanoportal.com/software/analysis/dorado-0.9.2-linux-x64.tar.gz	ddb125dc562cb3fb8ed9fe63ff0958def5dfb567270bd421b5662d8cddfc7ad1	207f68d0a55374bc61c174f7cf25031a6ab42ec70f39e88dc8ef238501b198cc	dna_r10.4.1_e8.2_400bps_sup@v4.1.0,dna_r10.4.1_e8.2_400bps_hac@v4.1.0
+1.4.0	https://cdn.oxfordnanoportal.com/software/analysis/dorado-1.4.0-linux-x64.tar.gz	ea15250d911c6b6efdb21cc142008b2be8a5c781c8b0a4593b82f27b07385731	7176de82491c3690393b0167bbe7ffdd37c4f66bcb62b49cc62f01cea9c80821	dna_r10.4.1_e8.2_400bps_sup@v5.2.0,dna_r10.4.1_e8.2_400bps_sup@v5.0.0,dna_r10.4.1_e8.2_400bps_hac@v5.2.0
+2.1.2	https://cdn.oxfordnanoportal.com/software/analysis/dorado-2.1.2-linux-x64.tar.gz	f4ed83acfb75cf07ffe8a0fc78e26828fc911fcfc8177920be6104e1d0e02485	08fef6060d9672f1e7b1772470b93ff0750d28d15f2e64cef1d02533a03ebb49	dna_r10.4.1_e8.2_400bps_sup@v5.2.0,dna_r10.4.1_e8.2_400bps_hac@v5.2.0

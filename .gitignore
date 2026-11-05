@@ -1,0 +1,9 @@
+target/
+*.swp
+__pycache__/
+# paper/: machine settings, downloads, set POD5s and outputs
+paper/config.local.sh
+paper/data/sources/
+paper/data/pod5/
+paper/out/
+paper/tools/opt/

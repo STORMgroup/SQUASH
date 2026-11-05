@@ -1,0 +1,7 @@
+# SQUASH's outputs of vpk60_both60 (sha256 of each file; a .gz file by its decompressed text)
+7e250df8c8f0ca3720212993fad875e7de971cd66a83874860acf12d5973af99  assembly_graph.gfa
+20c176b0815eaf27b0e12cd5d056e97ea5f3e4f2f4e4e907ce71bdf9dd5e8538  assembly_info.tsv
+412aed22a0eb6dc227c64d831906606a7e59d3ddab459543181879fc1660574e  read_paths.tsv.gz
+2309a25d77547f2342e524620d4acc0035504c7025e56030b4cb1d10633ac7ea  layout.tsv.gz
+945deac035831d3d5bf0a8fee5befcb4cffcff823baa29b0c7b02f3e65b90f8e  joins.tsv
+7ce50c519f0f28d7192200e387cf90e3e4b7419da3688f73ac956461ddc6e583  stats.tsv

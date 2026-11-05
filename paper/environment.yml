@@ -1,0 +1,10 @@
+# paper/environment.yml: the Python of paper/'s scripts with requirements.txt's pinned packages.
+#   conda env create -f paper/environment.yml && conda activate squash-paper
+name: squash-paper
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.20
+  - pip
+  - pip:
+      - -r requirements.txt

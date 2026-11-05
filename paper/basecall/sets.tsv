@@ -1,0 +1,15 @@
+key	rate_hz	sup_dorado	sup_model	sup_split	sup_fastq	hac_dorado	hac_model	timed_dorado	timed_sup_model	timed_hac_model	cpu_subset_samples	sup_fastq_sha256
+eck100_both100	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	off	dorado	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	all	.
+cjk100_both100	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	off	dorado	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	all	.
+vpk100_both100	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	off	dorado	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	all	.
+u9k100_both100	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	off	dorado	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	all	.
+ark100_both100	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	off	dorado	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	3.67e9	.
+h2k60_both60	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.0.0	off	ont_giab2025	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	3.67e9	90ad8c4b6450e386ab82512c444f62051b6bbf5fc73ae3361d00115bff8bc41d
+dmk100_both100	4000	0.9.2	dna_r10.4.1_e8.2_400bps_sup@v4.1.0	on	dorado	0.9.2	dna_r10.4.1_e8.2_400bps_hac@v4.1.0	0.9.2	dna_r10.4.1_e8.2_400bps_sup@v4.1.0	dna_r10.4.1_e8.2_400bps_hac@v4.1.0	2.33e9	.
+awk60_both60	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	off	dorado	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	3.67e9	.
+eck60_both60	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	off	dorado	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	all	.
+cjk60_both60	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	off	dorado	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	all	.
+vpk60_both60	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	off	dorado	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	all	.
+u9k60_both60	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	off	dorado	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	all	.
+ark60_both60	5000	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	off	dorado	2.1.2	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	2.1.2	dna_r10.4.1_e8.2_400bps_sup@v5.2.0	dna_r10.4.1_e8.2_400bps_hac@v5.2.0	3.67e9	.
+dmk60_both60	4000	0.9.2	dna_r10.4.1_e8.2_400bps_sup@v4.1.0	on	dorado	0.9.2	dna_r10.4.1_e8.2_400bps_hac@v4.1.0	0.9.2	dna_r10.4.1_e8.2_400bps_sup@v4.1.0	dna_r10.4.1_e8.2_400bps_hac@v4.1.0	2.33e9	.

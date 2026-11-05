@@ -1,0 +1,7 @@
+# SQUASH's outputs of cjk100_both100 (sha256 of each file; a .gz file by its decompressed text)
+498d8b1d081ff7981ccc3865a9685aa70dc548c9e21cd71f2af1c6345af8ff6e  assembly_graph.gfa
+c675597aff045da0bc6f46e06d08016bd8ecd71ed5f90d2d071b79e468d50f90  assembly_info.tsv
+7ad8be22441ef4c3714e2f1e5e2b7066d035835468d5bac8011b44c5a01a6ad7  read_paths.tsv.gz
+483d626385d0a745792cc5d26d932311f448f43a4b610e8ca0c04745166d561d  layout.tsv.gz
+945deac035831d3d5bf0a8fee5befcb4cffcff823baa29b0c7b02f3e65b90f8e  joins.tsv
+60870981a43e550a2ca38d132dc7424c8a75bfe91aaf26382ce47a197c8135c0  stats.tsv

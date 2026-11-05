@@ -1,0 +1,11 @@
+# paper/tools/envs/minimap2.yml: minimap2 2.30-r1287 (`minimap2 --version`): nanoMDBG's aligner (on its PATH, as in the
+# paper's runs), the evaluation's placed sequences and strand split, curation. The paper's runs used a build of the
+# 2.30 release source; bioconda's 2.30 build prints the same version.
+#   tools/conda.sh minimap2
+name: minimap2
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - minimap2=2.30=h577a1d6_0

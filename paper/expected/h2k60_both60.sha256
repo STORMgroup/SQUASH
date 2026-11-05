@@ -1,0 +1,7 @@
+# SQUASH's outputs of h2k60_both60 (sha256 of each file; a .gz file by its decompressed text)
+191f0f3eaf61e8697d8e632b0ed8cd6e14ad0d54e89384cf4e9d8918e6ea278b  assembly_graph.gfa
+94f90a29f02db117f0d1edce728367fd09c5b96e9e260c058a9b230f431271db  assembly_info.tsv
+a261f74af79212dd089c2118598561ede748c2decda6e40be041e9c07a415404  read_paths.tsv.gz
+09df2bf0aed84a5f41ac3d4ce6190848955af6424611aaf7bcff990e00ef9038  layout.tsv.gz
+d8b0c21f09a063c71c82585bd78c5a02587b9aa575bd0392d06a4c1680555076  joins.tsv
+b12e9033e6a8b816144ec3a2d6764916dc2b1578d3827177880663c991241a0c  stats.tsv

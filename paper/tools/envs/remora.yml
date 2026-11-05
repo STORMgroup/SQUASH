@@ -1,0 +1,37 @@
+# paper/tools/envs/remora.yml: Remora 3.3.0 (ont-remora, PyPI) in Python 3.10.14 with the package versions of the paper's
+# evaluation environment (the placed sequences: Remora's reference-anchored signal refinement). torch is the CPU build of
+# the same version (the refinement runs on the CPU; the paper's environment had the CUDA 12.6 build).
+#   tools/conda.sh remora
+name: remora
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.10.14
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cpu
+      - ont-remora==3.3.0
+      - torch==2.9.0+cpu
+      - numpy==1.26.4
+      - pysam==0.24.0
+      - pod5==0.3.39
+      - lib-pod5==0.3.39
+      - parasail==1.3.4
+      - polars==1.44.2
+      - polars-runtime-32==1.44.2
+      - pyarrow==22.0.0
+      - scipy==1.15.3
+      - scikit-learn==1.7.2
+      - pandas==2.3.3
+      - plotnine==0.12.4
+      - matplotlib==3.10.9
+      - mizani==0.9.3
+      - statsmodels==0.15.0
+      - thop==0.1.1.post2209072238
+      - toml==0.10.2
+      - tqdm==4.70.1
+      - requests==2.34.2
+      - importlib-resources==7.1.0
+      - h5py==3.16.0
+      - vbz-h5py-plugin==1.0.1

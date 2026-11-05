@@ -1,0 +1,11 @@
+# paper/tools/envs/samtools.yml: samtools 1.23.1 with htslib 1.23.1, the bioconda builds the paper's runs used (the
+# selection of basecalled records, FASTQ conversion, BAM handling; curation).
+#   tools/conda.sh samtools
+name: samtools
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - samtools=1.23.1=ha83d96e_0
+  - htslib=1.23.1=h633afcb_0

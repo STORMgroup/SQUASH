@@ -1,0 +1,37 @@
+[package]
+name = "squash"
+version = "1.0.0"
+authors = ["Quang Ngo", "Ulysse McConnell", "Can Firtina"]
+edition = "2018"
+license = "MIT"
+description = "SQUASH: assembling raw nanopore signals with minimizer-space de Bruijn graphs"
+repository = "https://github.com/STORMgroup/SQUASH"
+readme = "README.md"
+default-run = "squash"
+
+[[bin]]
+name = "squash"
+path = "src/main.rs"
+
+# Cargo.lock pins the crates the paper's runs were built with.
+[dependencies]
+flate2 = "1.0.6"
+rayon = "*"
+structopt = "0.3.1"
+libc = "0.2.77"
+zstd = "0.13"
+# Pure-Rust POD5 reader; pinned: 0.2.0 is the reader the paper's outputs were made with.
+pod5lib = "=0.2.0"
+# The POD5 Reads / RunInfo tables read directly by the bp scale's `lengths` (pod5lib's own arrow version).
+arrow = { version = "53", default-features = false, features = ["ipc"] }
+# The command line of `squash` itself (each step keeps its own parser).
+clap = { version = "=4.5.20", features = ["derive"] }
+
+[profile.release]
+# Cross-crate inlining for the long-running steps; target-cpu not pinned (SIMD is chosen at run time, and every path
+# gives the same outputs).
+lto = "thin"
+codegen-units = 1
+
+[profile.dev]
+opt-level = 3

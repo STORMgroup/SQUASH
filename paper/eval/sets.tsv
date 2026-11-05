@@ -1,0 +1,15 @@
+key	reference	placement	genome	hap	masked	rawsamble	hac
+eck100_both100	ecoli_chr.fa	-	-	-	-	1	1
+cjk100_both100	cj.fa	-	-	-	-	1	1
+vpk100_both100	vp.fa	-	-	-	-	1	1
+u9k100_both100	u9.fa	-	-	-	-	1	1
+ark100_both100	me14.fa	-	-	-	-	1	1
+h2k60_both60	chr13q_MAT.fa	chr13q_hap.fa	-	chr13q_hap.fa	-	1	1
+dmk100_both100	dmel_r6_nuclear.fa	-	-	-	dmel_r6_nuclear.masked.fa	0	1
+awk60_both60	colcc_org.fa	-	colcc.fa	-	colcc_org.masked.fa	0	1
+eck60_both60	ecoli_chr.fa	-	-	-	-	1	0
+cjk60_both60	cj.fa	-	-	-	-	1	0
+vpk60_both60	vp.fa	-	-	-	-	1	0
+u9k60_both60	u9.fa	-	-	-	-	1	0
+dmk60_both60	dmel_r6_nuclear.fa	-	-	-	-	0	0
+ark60_both60	me14.fa	-	-	-	-	1	0

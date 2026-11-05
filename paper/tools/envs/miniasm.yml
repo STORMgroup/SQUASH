@@ -1,0 +1,10 @@
+# paper/tools/envs/miniasm.yml: miniasm 0.3-r179 (`miniasm -V`), the bioconda build the paper's runs used (assembly of
+# Rawsamble's overlaps).
+#   tools/conda.sh miniasm
+name: miniasm
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - miniasm=0.3=h577a1d6_5

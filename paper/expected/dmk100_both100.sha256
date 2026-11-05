@@ -1,0 +1,7 @@
+# SQUASH's outputs of dmk100_both100 (sha256 of each file; a .gz file by its decompressed text)
+e03011354fce7ac420069a8fa7459f2927d43180b1c466d6c0d31eb2ad54e9d9  assembly_graph.gfa
+2173ff2d7a42c5ee38d2b53a30d3c57b53bf526f56d95fa3bbf12c27fec57460  assembly_info.tsv
+9fa34a3c1a84f2d08be0ae9883a0454654e39992536f05987c8979c5935ed82a  read_paths.tsv.gz
+40277e699d21f78cf56f09c4a155c18d5b6c4d34658a8abbce13ed078a7fed09  layout.tsv.gz
+00f0d7d99a6936fe4058ea047535c3db865081145d5425c6942c92442e3b623b  joins.tsv
+c27caa7ed79ebfd44aa4b802eb74d6f9fd939102fad27194b0397ab060ffd4b0  stats.tsv
